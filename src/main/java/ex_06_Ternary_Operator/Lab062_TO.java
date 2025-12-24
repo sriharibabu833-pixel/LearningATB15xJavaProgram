@@ -8,6 +8,9 @@ public class Lab062_TO {
         String canAmolGotoGoa = age > 18 ? "Yes" : "No";
         System.out.println(canAmolGotoGoa);
         
+       
+      //  ? "Yes" : "No"; these symbols called as ternary operator
+
 
 	}
 
