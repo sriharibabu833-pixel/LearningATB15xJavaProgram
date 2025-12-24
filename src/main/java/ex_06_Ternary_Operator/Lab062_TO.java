@@ -9,7 +9,7 @@ public class Lab062_TO {
         System.out.println(canAmolGotoGoa);
         
        
-      //  ? "Yes" : "No"; these symbols called as ternary operator
+      // Condition ? "Yes" : "No"; these symbols called as ternary operator
 
 
 	}
